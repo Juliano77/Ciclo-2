@@ -1,0 +1,6 @@
+d = int(input('Informe sua idade em dias '))
+idadeanos = a / 365
+idademeses = a / 30
+print('Sua idade em anos é')
+print('Sua idade em meses é')
+print('Sua idade em dias é')
