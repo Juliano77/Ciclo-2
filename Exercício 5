@@ -1,0 +1,3 @@
+def reverseString(text):
+    text = input("Escreva uma frase")
+    return text[::-1]
